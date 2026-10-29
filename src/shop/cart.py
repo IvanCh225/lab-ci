@@ -56,4 +56,3 @@ class Cart:
 
     def format_total(self) -> str:
         return self.total()
-
